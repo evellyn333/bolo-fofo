@@ -2,7 +2,7 @@
 let xBolinha = 100;
 let yBolinha = 200;
 let diametro = 20;
-let raio = diametro / 2;
+let raio = diametro / 2
 
 //variáveis do oponente
 let xRaqueteOponente = 585;
